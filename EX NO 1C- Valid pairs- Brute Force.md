@@ -30,11 +30,6 @@ If true, increment count by 1.
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: DIVYA DHARSHINI R
-Register Number:  212223040042
-*/
 import java.util.Scanner;
 public class CountPairsWithDifference {
     public static int countKDifference(int[] nums, int k) {
